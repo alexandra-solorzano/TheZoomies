@@ -1,2 +1,2 @@
 # TheZoomies
-Interact with your favorite showtime crew members
+Interact with your favorite showtime team members
