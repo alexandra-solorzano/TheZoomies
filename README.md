@@ -1,6 +1,9 @@
-# napa-showtime-team
+# TheZoomies
+Interact with your favorite showtime team members
 
-> An app representing all my pals
+To see this wonderful site... 
+go to your preferred web browser, type  "http://localhost:8080/#/"
+
 
 ## Build Setup
 
